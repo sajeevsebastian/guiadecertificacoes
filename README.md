@@ -348,6 +348,7 @@
 - [Tutorials Dojo](https://tutorialsdojo.com/) — Simulados de AWS, Azure e GCP com explicações detalhadas; os mais recomendados pela comunidade. Ferramenta paga.
 - [Whizlabs](https://www.whizlabs.com/) — Simulados e laboratórios para certificações cloud. Ferramenta paga.
 - [Boson](https://www.boson.com/) — ExSim-Max: os simulados de CCNA/CCNP e CompTIA mais fiéis à prova real. Ferramenta paga.
+- [ExamCrest](https://examcrest.com/?utm_source=github&utm_campaign=guiadecertificacoes) — Questões de amostra gratuitas por prova (AWS, Azure, segurança e outras), sem cadastro, com cada alternativa explicada; simulados completos pagos. 🆕 💰 🇺🇸
 - [Anki](https://apps.ankiweb.net/) — Flashcards com repetição espaçada para decorar serviços, portas e siglas.
 
 ## 🧪 Projetos práticos e desafios
@@ -396,10 +397,10 @@ IA generativa é um ótimo apoio para estudar para provas de certificação — 
 
 - [AWS Certified Cloud Practitioner (CLF-C02)](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/) — A porta de entrada na AWS: 65 questões, 90 min, US$ 100, disponível em português.
 - [AWS Certified Solutions Architect – Associate (SAA-C03)](https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/) — A certificação AWS mais pedida em vagas; nível Associate, US$ 150, em português.
-- [AWS Certified SysOps Administrator – Associate (SOA-C02)](https://aws.amazon.com/pt/certification/certified-sysops-admin-associate/) — Operação, monitoramento e automação na AWS; US$ 150.
-- [AWS Certified Solutions Architect – Professional (SAP-C02)](https://aws.amazon.com/pt/certification/certified-solutions-architect-professional/) — Nível Professional: arquiteturas complexas e multi-conta; US$ 300.
+- [AWS Certified CloudOps Engineer – Associate (SOA-C03)](https://aws.amazon.com/pt/certification/certified-cloudops-engineer-associate/) — Antiga SysOps Administrator – Associate: operação, monitoramento e automação na AWS; US$ 150.
+- [AWS Certified Solutions Architect – Professional (SAP-C03)](https://aws.amazon.com/pt/certification/certified-solutions-architect-professional/) — Nível Professional: arquiteturas complexas e multi-conta; a SAP-C03 vale a partir de 17/11/2026 (último dia da SAP-C02: 16/11/2026); US$ 300.
 - [AWS Certified DevOps Engineer – Professional (DOP-C02)](https://aws.amazon.com/pt/certification/certified-devops-engineer-professional/) — CI/CD, IaC e operações em escala na AWS; US$ 300.
-- [AWS Certified Security – Specialty (SCS-C02)](https://aws.amazon.com/pt/certification/certified-security-specialty/) — Segurança na AWS em profundidade; US$ 300.
+- [AWS Certified Security – Specialty (SCS-C03)](https://aws.amazon.com/pt/certification/certified-security-specialty/) — Segurança na AWS em profundidade; a SCS-C03 substituiu a SCS-C02 em 02/12/2025; US$ 300.
 - [AWS Certified Advanced Networking – Specialty (ANS-C01)](https://aws.amazon.com/certification/certified-advanced-networking-specialty/) — Redes híbridas e avançadas na AWS; US$ 300.
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/) — A porta de entrada no Azure; exame disponível em português.
 - [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-administrator/) — A certificação Azure mais pedida em vagas de infraestrutura; em português.
@@ -456,7 +457,7 @@ IA generativa é um ótimo apoio para estudar para provas de certificação — 
 > Certificações de engenharia de dados, machine learning e análise nos grandes provedores de nuvem.
 
 - [AWS Certified Data Engineer – Associate (DEA-C01)](https://aws.amazon.com/pt/certification/certified-data-engineer-associate/) — Lançada em 2024: pipelines, armazenamento e governança de dados na AWS; US$ 150.
-- [AWS Certified Machine Learning Engineer – Associate (MLA-C01)](https://aws.amazon.com/pt/certification/certified-machine-learning-engineer-associate/) — Lançada em 2024: MLOps e SageMaker; US$ 150.
+- [AWS Certified Machine Learning Engineer – Associate (MLA-C02)](https://aws.amazon.com/pt/certification/certified-machine-learning-engineer-associate/) — Lançada em 2024: MLOps e SageMaker; MLA-C02 em beta desde 29/09/2026, disponibilidade geral em 14/01/2027, quando a MLA-C01 é aposentada; US$ 150.
 - [AWS Certified Machine Learning – Specialty (MLS-C01)](https://aws.amazon.com/certification/certified-machine-learning-specialty/) — Machine learning em nível Specialty; US$ 300.
 - [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/) — Fundamentos de dados no Azure; em português.
 - [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/pt-br/credentials/certifications/fabric-data-engineer-associate/) — Nova (2025): engenharia de dados no Microsoft Fabric.
@@ -520,7 +521,7 @@ IA generativa é um ótimo apoio para estudar para provas de certificação — 
 - [BSTQB — ISTQB no Brasil](https://bstqb.qa/) — Exames ISTQB em português, pagos em reais, com material oficial gratuito.
 - [Salesforce Administrator (Trailhead)](https://trailhead.salesforce.com/credentials/administratoroverview) — A certificação de entrada no ecossistema Salesforce; estudo gratuito no Trailhead.
 - [Trailhead](https://trailhead.salesforce.com/) — Plataforma gratuita de aprendizado da Salesforce.
-- [AWS Certified Developer – Associate (DVA-C02)](https://aws.amazon.com/pt/certification/certified-developer-associate/) — A certificação AWS para desenvolvedores.
+- [AWS Certified Developer – Associate (DVA-C03)](https://aws.amazon.com/pt/certification/certified-developer-associate/) — A certificação AWS para desenvolvedores; a DVA-C03 vale a partir de 01/12/2026 (último dia da DVA-C02: 30/11/2026).
 - [Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer/) — A certificação Azure para desenvolvedores.
 
 ## 🧠 Certificações de Inteligência Artificial
